@@ -1,0 +1,45 @@
+Assignment: Build a Responsive, Static Website
+Scenario
+Your team has been employed with Webitect, a website development agency. You have been given a project with the creative freedom to create a coherent, responsive static website for a client of your choice.
+
+Instructions
+Based on what you learned in both assignments and labs so far, choose a design concept for a new business and code a coherent, responsive static website following modern conventions.
+Your site must include all of the following elements:
+
+Hero banner
+Content section
+Card section
+Embedded video
+Accordion
+Footer
+Imported Google font
+An open-source icon and image
+The website’s section content (text, images, videos, etc.), branding styles and fonts are up to you but you should create a cohesive design and brand for your site.
+
+Here are a few ideas to help get you started:
+
+Create a portfolio website with your technical skills showcased in the card section.
+Create a website showcasing your photography rendered in the card section.
+Create a marketing landing page for a real or fictional business. Show the services offered rendered in the card section and an FAQ accordion.
+Create a mock e-commerce website with fake products rendered in the card section and a promotional product video.
+Create an event listing website, with upcoming events in the cards section and a promotional event video.
+Choose your own idea.
+Review the Marking Criteria section below for details on how you will be assessed.
+Upload your repository to any git repository sharing website. The instructions below are for https://github.com.
+Create or sign into your GitHub account (https://github.com/signup)
+Click the New Repository button or visit https://github.com/new.
+Give the repository a relevant name, such as cprg-218-lab-2.
+Make sure the repository is marked Public (not Private).
+Notes:
+
+Don’t use the option for a Repository template, since you will be uploading a repository you have already created.
+Do not add a README file, gitignore or license, since you will be uploading a repository you have already created.
+Click Create repository. Keep this page open to see the URL you’ll need in the next step.
+On the command line in your repository directory, run the command git remote add origin your-repository-url (replace your-repository-url with the URL for your repository, which appears on the page in the previous step.
+Still on the command line in your repository directory, run the command git push origin '*:*'. This will push your repository and all branches to GitHub.
+Refresh the page you kept open. You should see that your repository has been uploaded.
+Deliverables
+Submit a document to Brightspace that includes:
+
+Your name
+The URL to the public repository you created in Step 3
